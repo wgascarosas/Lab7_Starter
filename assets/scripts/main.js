@@ -1,4 +1,4 @@
-// main.js
+// main.js -
 
 // CONSTANTS
 const RECIPE_URLS = [
